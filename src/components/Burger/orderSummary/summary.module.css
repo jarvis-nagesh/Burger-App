@@ -1,0 +1,12 @@
+.Hide {
+    display: none;
+}
+
+.Show {
+    display: flex;
+    flex-direction: column;
+}
+
+.Button {
+    display: flex;
+}

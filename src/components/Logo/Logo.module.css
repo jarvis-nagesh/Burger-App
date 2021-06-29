@@ -1,0 +1,16 @@
+.Logo {
+    display: inline;
+    float: left;
+}
+
+.Logo img{
+    background-color: transparent;
+    width: 18%;
+}
+
+@media (max-width:499px) {
+    .Logo img{
+        display: inline;
+        float: right;
+    }
+}

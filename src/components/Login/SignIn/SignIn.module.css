@@ -1,0 +1,26 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.Form input{
+    margin: 10px 0px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 80%;
+    outline-style: none;
+}
+.Form button{
+    margin-top: 20px;
+    width: 50%;   
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: skyblue;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:17px;
+    font-weight: bold;
+}
+

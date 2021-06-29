@@ -1,0 +1,35 @@
+.Login {
+    width: 40%;
+    display: block;
+    margin:auto;
+    margin-top: 58px;
+    padding: 3px;
+}
+.Links {
+    display: flex;
+    justify-content: space-evenly;
+}
+.Links h2 {
+    cursor: pointer;
+    margin: 10px 10px;
+    width: 50%;
+}
+.active {
+    border-bottom: 2px solid rgba(4, 168, 233, 0.904);
+    color: rgba(4, 168, 233, 0.904) ;
+}
+.border {
+    border-bottom: 1px solid black;
+}
+
+
+@media (max-width:500px) {
+    .Login {
+        width: 89%;
+        display: block;
+        margin: auto;
+        margin-top: 74px;
+        padding: 5px;
+    
+    }
+}

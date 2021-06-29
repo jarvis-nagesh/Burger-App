@@ -1,0 +1,13 @@
+.Navigations {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    box-sizing: border-box;
+}
+
+@media (max-width:500px) {
+    .Navigations {
+        flex-direction: column;
+    }
+}

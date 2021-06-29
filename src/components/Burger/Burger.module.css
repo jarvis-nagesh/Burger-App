@@ -1,0 +1,16 @@
+.Burger {
+    width: 50%;
+    margin: auto;
+    height: 200px;
+    overflow:auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.Price {
+    margin: auto;
+    text-align: center;
+    
+}
